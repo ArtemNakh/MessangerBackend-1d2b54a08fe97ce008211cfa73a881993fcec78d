@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3665FBA7-DC9E-4FD2-BA46-60E1B3BDCC3F}|MessangerBackend.Core\\MessangerBackend.Core.csproj|c:\\users\\artem\\desktop\\hwshag\\asp_net_ajax\\hw 07_08_2024\\messangerbackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\messangerbackend.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3665FBA7-DC9E-4FD2-BA46-60E1B3BDCC3F}|MessangerBackend.Core\\MessangerBackend.Core.csproj|solutionrelative:messangerbackend.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3665FBA7-DC9E-4FD2-BA46-60E1B3BDCC3F}|MessangerBackend.Core\\MessangerBackend.Core.csproj|c:\\users\\artem\\desktop\\hwshag\\asp_net_ajax\\hw 07_08_2024\\messangerbackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\messangerbackend.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3665FBA7-DC9E-4FD2-BA46-60E1B3BDCC3F}|MessangerBackend.Core\\MessangerBackend.Core.csproj|solutionrelative:messangerbackend.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3665FBA7-DC9E-4FD2-BA46-60E1B3BDCC3F}|MessangerBackend.Core\\MessangerBackend.Core.csproj|c:\\users\\artem\\desktop\\hwshag\\asp_net_ajax\\hw 07_08_2024\\messangerbackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\messangerbackend.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3665FBA7-DC9E-4FD2-BA46-60E1B3BDCC3F}|MessangerBackend.Core\\MessangerBackend.Core.csproj|solutionrelative:messangerbackend.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5722F493-96AC-4C2A-9734-7C131D4BD5A6}|MessangerBackend\\MessangerBackend.csproj|c:\\users\\artem\\desktop\\hwshag\\asp_net_ajax\\hw 07_08_2024\\messangerbackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\messangerbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5722F493-96AC-4C2A-9734-7C131D4BD5A6}|MessangerBackend\\MessangerBackend.csproj|solutionrelative:messangerbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2421EB59-B90F-46C4-A3D8-8E985A0F45D8}|MessangerBackend.Storage\\MessangerBackend.Storage.csproj|c:\\users\\artem\\desktop\\hwshag\\asp_net_ajax\\hw 07_08_2024\\messangerbackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\messangerbackend.storage\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2421EB59-B90F-46C4-A3D8-8E985A0F45D8}|MessangerBackend.Storage\\MessangerBackend.Storage.csproj|solutionrelative:messangerbackend.storage\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2421EB59-B90F-46C4-A3D8-8E985A0F45D8}|MessangerBackend.Storage\\MessangerBackend.Storage.csproj|c:\\users\\artem\\desktop\\hwshag\\asp_net_ajax\\hw 07_08_2024\\messangerbackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\messangerbackend.storage\\messangercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2421EB59-B90F-46C4-A3D8-8E985A0F45D8}|MessangerBackend.Storage\\MessangerBackend.Storage.csproj|solutionrelative:messangerbackend.storage\\messangercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend.Core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "MessangerBackend.Core\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend.Core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "MessangerBackend.Core\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:10:33.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend.Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "MessangerBackend.Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend.Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "MessangerBackend.Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:45:36.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend\\Program.cs",
+              "RelativeDocumentMoniker": "MessangerBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend\\Program.cs",
+              "RelativeToolTip": "MessangerBackend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:10:20.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend.Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MessangerBackend.Core\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend.Core\\Services\\UserService.cs",
+              "RelativeToolTip": "MessangerBackend.Core\\Services\\UserService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:17:30.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend.Storage\\Repository.cs",
+              "RelativeDocumentMoniker": "MessangerBackend.Storage\\Repository.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend.Storage\\Repository.cs",
+              "RelativeToolTip": "MessangerBackend.Storage\\Repository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwCQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:11:23.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessangerContext.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend.Storage\\MessangerContext.cs",
+              "RelativeDocumentMoniker": "MessangerBackend.Storage\\MessangerContext.cs",
+              "ToolTip": "C:\\Users\\artem\\Desktop\\hwshag\\ASP_NET_AJAX\\HW 07_08_2024\\MessangerBackend-1d2b54a08fe97ce008211cfa73a881993fcec78d\\MessangerBackend.Storage\\MessangerContext.cs",
+              "RelativeToolTip": "MessangerBackend.Storage\\MessangerContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:11:20.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
