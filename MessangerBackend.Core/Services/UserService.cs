@@ -14,6 +14,12 @@ public class UserService : IUserService
 
     public async Task<User> Login(string nickname, string password)
     {
+        if (nickname == null || string.IsNullOrEmpty(nickname.Trim()) ||
+            password == null || string.IsNullOrEmpty(password.Trim()))
+        {
+            throw new ArgumentNullException();
+        }
+
         return (await _repository.GetQuery<User>(u => u.Nickname == nickname && u.Password == password)).SingleOrDefault();
      }
 
@@ -21,7 +27,7 @@ public class UserService : IUserService
     {
         var User = _repository.GetQuery<User>(u => u.Nickname == nickname && u.Password==password);
         if (User != null)
-            return null;
+            throw new ArgumentNullException();
 
         User newUser = new User()
         {
@@ -43,9 +49,9 @@ public class UserService : IUserService
     public IEnumerable<User> GetUsers(int page, int size)
     {
         if (page <= 0 || size <= 0)
-          return Enumerable.Empty<User>();
+            throw new ArgumentNullException();
 
-      return (_repository.GetQuery<User>(u => true).Result).Skip((page - 1) * size).Take(size).ToList();
+        return (_repository.GetQuery<User>(u => true).Result).Skip((page - 1) * size).Take(size).ToList();
     }
 
 
